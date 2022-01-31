@@ -9,8 +9,10 @@
 - 👀 I’m interested in Machine Learning,Data Science.
 - 🌱 I’m currently learning CNN's and different methods to perform model evaluation
 - 💞️ I’m looking to collaborate on anything related to open_source.
-- 📫 How to reach me @Twitter and @LinkedIN
-
+- 📫 Connect with me on: 
+<a href="https://www.linkedin.com/in/sameer-bhosale/"><img src="https://raw.githubusercontent.com/sameer-21B/sameer-21B/main/linkedin.png" alt="icon" width="25px"/></a>
+<a href="https://twitter.com/SameerB93955095"><img src="https://raw.githubusercontent.com/sameer-21B/sameer-21B/main/twitter.png" alt="icon" width="25px"/></a>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameer-21B&show_icons=true&theme=radical&layout=default)
 
