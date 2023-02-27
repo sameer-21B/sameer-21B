@@ -8,7 +8,7 @@
 - 👋 Hi, I’m Sameer Bhosale
 - 👀 I’m interested in Machine Learning,Data Science.
 - 🌱 I’m currently learning Deep Learning and frameworks relatead to it.
-- 💞️ I’m looking to collaborate on anything related to open source.
+- 💼 I’m looking to collaborate on anything related to open source.
 - 📫 Connect with me on: 
 <a href="https://www.linkedin.com/in/sameer-bhosale/"><img src="https://raw.githubusercontent.com/sameer-21B/sameer-21B/main/linkedin.png" alt="icon" width="25px"/></a>
 <a href="https://twitter.com/SameerB93955095"><img src="https://raw.githubusercontent.com/sameer-21B/sameer-21B/main/twitter.png" alt="icon" width="25px"/></a>
